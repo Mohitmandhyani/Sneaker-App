@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "355313601566",
+    "firebase_url": "https://snekerx-f92c6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "snekerx-f92c6",
+    "storage_bucket": "snekerx-f92c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355313601566:android:6b15e74b61ba764247f20f",
+        "android_client_info": {
+          "package_name": "com.aditya.sneakerx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355313601566-bp4jlp83mmapffr6rfkbmd8uqvlh4no5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzwU3H3rawpWsiYlIvwVGKdiu6ZWInLoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355313601566-bp4jlp83mmapffr6rfkbmd8uqvlh4no5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "355313601566-gmigta4fdeha6rav1p76bj4ljr0b503d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aditya.sneakerx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

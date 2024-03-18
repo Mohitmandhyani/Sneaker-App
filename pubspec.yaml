@@ -1,0 +1,78 @@
+name: sneakerx
+description: A Sneaker Shopping App.
+
+publish_to: 'none'
+
+version: 3.2.1+3
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_translator: ^1.0.0
+  cupertino_icons: ^1.0.6
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.15.3
+  cloud_firestore: ^4.13.6
+  firebase_storage: ^11.5.6
+  provider: ^6.1.1
+  url_launcher: ^6.2.2
+  image_picker: ^1.0.7
+  numberpicker: ^2.1.2
+  lottie: ^2.7.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/lottie/
+    - assets/fonts/
+    - assets/Nike/
+    - assets/Puma/
+    - assets/Adidas/
+    - assets/Dior/
+    - assets/nike(2)_logo.png
+    - assets/puma_logo.png
+    - assets/adidas_logo.png
+    - assets/Dior_logo.png
+    - assets/Nike/Nike_clothing.jpg
+    - assets/Nike/Nike_clothing(2).jpg
+    - assets/Puma/Puma_clothes.jpg
+    - assets/Puma/Puma_clothes(2).jpg
+    - assets/Dior/Dior_clothing.jpg
+    - assets/Dior/Dior_clothing(2).jpg
+    - assets/Adidas/Adidas_clothing.jpeg
+    - assets/Adidas/Adidas_clothing(2).jpeg
+    - assets/Nike/adidas_clothing.jpeg
+    - assets/Nike/adidas_clothing(2).jpeg
+    - assets/Nike/Puma_clothing.jpg
+    - assets/Nike/Puma_clothing(2).jpg
+    - assets/Nike/Dior_clothing.jpg
+    - assets/Nike/Dior_clothing(2).jpg
+    - assets/Nike/nike_quarter_launch.png
+    - assets/Nike/Nike_annual_lainch.png
+    - assets/Puma/puma1.jpeg
+    - assets/Puma/puma2.png 
+    - assets/Adidas/adidas_quarter_launch.jpeg
+    - assets/Adidas/adidas_annual_launch.png
+    - assets/Dior/dior1.jpeg
+    - assets/Dior/dior2.jpeg
+    - assets/Nike/adidas_annual_launch.png
+    - assets/Nike/adidas_quarter_launch.jpeg
+
+  fonts:
+    - family: Futura
+      fonts:
+        - asset: assets/fonts/futura.ttf
+        - asset: assets/fonts/futura_bold.ttf
+          weight: 700
+

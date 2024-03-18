@@ -39,7 +39,9 @@ In today's hectic world, sneaker enthusiasts struggle to stay on top of releases
 - **Registration/Login:** Users can create an account or log in using their existing credentials.
 - **Card Interaction:** interact with the sneaker cards to select sneaker.
 - **Personalization:** You can see various sneakers.
-- **Task Execution:** Delegate tasks such as add to cart , selecting size, or searching for payment Cod.
+- **Task Execution:** Delegate tasks such as add to cart , selecting size.
+- **Clothing Sense Suggestion** It gives images related to clothing sense for particular brand.
+- **Sneaker Launch Details** It gives the details about sneaker launch in 2 durations, first is Quarter launch second is Annual launch.
 
 ## Contribution Guidelines
 1. Fork the repository and create a new branch for your feature or bug fix.
